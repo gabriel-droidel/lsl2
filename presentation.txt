@@ -1,7 +1,17 @@
 presentation:
 
 
-VIDEO 30 sec
-INTRODUCTION 20 sec (maybe team members?)
+## VIDEO 30 sec
 
-
+## INTRODUCTION
+ - [interact with the audience] -> Maybe ask: On which day did you start feeling comfortable with the project?  on day one, day two, day three ?
+ 
+## THE VISION
+  (maybe joke about copyright issues)
+  user stories - what the game wants from us
+  what we did to overcome which hurdle
+  explaining the final theme of the project
+  budget slide
+  CREATIVITY? Tape, paper,luck 
+  Team Management? benefits of the Kanban board
+  
